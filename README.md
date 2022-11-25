@@ -8,7 +8,6 @@
 
 # 구현 환경
 
-| 하드웨어  | MacBook Air. Apple M2. 8GB RAM  | 
-|:—————————:|:—————————:|
+| 하드웨어  | MacBook Air. Apple M2. 8GB RAM  |
 | **컴파일러** | **gcc 13.1.6(-O2)** |
 | **정수 연산 라이브러리** | **FLINT 2.9.0** |
