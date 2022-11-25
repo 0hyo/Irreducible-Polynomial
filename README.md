@@ -1,5 +1,4 @@
-### Irreducible-Polynomial
-Classic McEliece에서 사용하는 최소다항식 생성 알고리듬과, Ben-or, Rabin 기약다항식 생성 알고리듬
+### Classic McEliece에서 사용하는 최소다항식 생성 알고리듬과, Ben-or, Rabin 기약다항식 생성 알고리듬
 
 # 컴파일 명령어
 
